@@ -1,0 +1,1 @@
+"""This script is used to preprocessing the CT scans and performing augmentation on the dataset"""#Load the data #Preprocess the data #Augment the Data 
