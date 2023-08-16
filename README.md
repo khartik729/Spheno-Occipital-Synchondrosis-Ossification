@@ -1,2 +1,2 @@
 The fusion of occipital bone and sphenoid bone at the spheno-occipital synchondrosis (SOS) has been shown to correspond to skeletal age based on the degree of fusion that has occurred and can be assessed through cone-beam computed tomography (CBCT) studies. Our study uses a newly proposed 5-stage classification in addition to the AI-based modified Convolutional Neural Networks (CNN) for the automation of tasks. 
-[Shammaa Poster Presentation.pptx](https://github.com/khartik729/Spheno-Occipital-Synchondrosis-Ossification/files/12363060/Shammaa.Poster.Presentation.pptx)
+<img width="468" alt="Screenshot 2023-08-16 at 3 58 47 PM" src="https://github.com/khartik729/Spheno-Occipital-Synchondrosis-Ossification/assets/65508313/40c83e08-15b4-4dcc-9dd4-386733b4fa29">
